@@ -9,7 +9,7 @@
 	"dependencies": {
 		"antd-mobile": "^1.0.5",
 		"react": "16.0.0-alpha.6",
-		"react-native": "0.44.3",
+		"react-native": "0.70.6",
 		"react-native-maps": "^0.25.0"
 	},
 	"devDependencies": {
